@@ -18,7 +18,7 @@
   <a href="https://discordapp.com/users/631971867548450816"> <!--Badge discord-->
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>  
-  <a href=""> <!--Badge spotify-->
+  <a href="https://open.spotify.com/user/31u74ui7acimylux6pinenadldnm?si=db78cf862af047c1"> <!--Badge spotify-->
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
@@ -27,20 +27,25 @@
 
 ## 📍 <code> Hi, I Am Polar </code> <!--Description-->
 
-- My name is Cristian Gonzalez Alvarez or Polar for friends
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tempor id eu nisl nunc. Lectus nulla at volutpat diam ut venenatis tellus in. Et tortor consequat id porta nibh. Ipsum nunc aliquet bibendum enim facilisis gravida neque. Nulla facilisi cras fermentum odio. Pretium vulputate sapien nec sagittis aliquam malesuada bibendum arcu vitae. Ornare arcu dui vivamus arcu. Id aliquet risus feugiat in ante metus dictum at. Nunc scelerisque viverra mauris in. Iaculis nunc sed augue lacus.
+- My name is Cristian or Polar for friends.
 
- 
+- I am currently a systems engineering student, and although I am still in the learning stage.
+
+- One of my great hobbies is pixel and voxel art, and I love to spend time creating new works and designs.
+
+
+
+
 </td><td valign="top" width="40%">
 
 ## 🖥️ <code> Tech Stack </code>  <!--skill tech-->
 
-- 
--  
-- 
-- 
-- 
-- 
+- JavaScript
+- Python
+- Golang
+- Mysql
+- Aseprite
+
  
 </tr></tr></table> 
 
@@ -63,11 +68,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <!--Table activity/programing lenguajes-->
 
-## Activity 
+## <code> Activity </code> 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Polar-zzz&radius=16&height=310&theme=tokyo-night)](https://github.com/Polar-zzz)
 
 <!--wallper rei-->
 ![Footer-wallper](rei.jpg)
 <!--credits-->
-#### > Made with <code>[Spotify Profile](https://github.com/kittinan/spotify-github-profile) </code>, <code> [Activity Gragh](https://github.com/Ashutosh00710/github-readme-activity-graph) </code> , <code>[Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk) </code> , <code>[Readme Stats](https://github.com/anuraghazra/github-readme-stats)</code> , <code>[Skill Icons](https://github.com/tandpfun/skill-icons) </code> ☃️
+#### > Made with <code>[Spotify Profile](https://github.com/kittinan/spotify-github-profile)</code>, <code>[Activity Gragh](https://github.com/Ashutosh00710/github-readme-activity-graph)</code>,<code>[Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)</code>,<code>[Readme Stats](https://github.com/anuraghazra/github-readme-stats)</code>,<code>[Skill Icons](https://github.com/tandpfun/skill-icons)</code> ☃️
