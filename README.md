@@ -70,7 +70,9 @@
 
 ## <code> Activity </code> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Polar-zzz&radius=16&height=310&theme=tokyo-night)](https://github.com/Polar-zzz)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Polar-zzz&radius=16&height=310&theme=tokyo-night)](https://github.com/Polar-zzz)
 
 <!--wallper rei-->
 ![Footer-wallper](rei.jpg)
